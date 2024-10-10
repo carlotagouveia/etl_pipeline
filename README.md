@@ -39,11 +39,11 @@ drop role if exists dbt_role;
 
 Create venv:
  ```sh
-python -m venv dbt-env				# create the environment
+python -m venv dbt-env				
   ```
 
  ```sh
-source dbt-env/bin/activate			# activate the environment for Mac and Linux
+source dbt-env/bin/activate			
   ```
 
 Create alias:
